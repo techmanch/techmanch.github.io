@@ -962,3 +962,7 @@ a:focus {
 .fab-icon {
   margin-top: 36px;
 }
+
+iframe[seamless] {
+  border: none;
+}
