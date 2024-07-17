@@ -968,5 +968,5 @@ iframe[seamless] {
 }
 
 .rounded-corner-normal {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
